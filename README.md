@@ -1,5 +1,5 @@
 # Graph_Plotter
-## A Graph Plotter using Pygame and OpenGPL
+## A Graph Plotter using Pygame and OpenGL
 
 This tool is used to plot pre-built graphs on a **pygame** screen based on user 
 input particularly through python **tkinter** GUI. It uses **OpenGL** and **OpenGLU**
