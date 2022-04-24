@@ -17,6 +17,7 @@ This file contains the following functions:
     * drawCos - draws cosine function
     * drawTan - draws tangential function
     * drawSquare - draws square function
+    * drawCart - draws the x-y plane
     * clear - clears the screen
     * begin - begins OpenGL drawing
     * end - ends OpenGL drawing
