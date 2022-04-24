@@ -1,5 +1,11 @@
 # Graph_Plotter
 ## A Graph Plotter using Pygame and OpenGPL
+
+This tool is used to plot pre-built graphs on a **pygame** screen based on user 
+input particularly through python **tkinter** GUI. It uses **OpenGL** and **OpenGLU**
+to draw the lines of the graphs. For the random generation of vertices, the tool
+utilizes **numpy.**
+
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
 Foundation, either version 3 of the License, or (at your option) any later
